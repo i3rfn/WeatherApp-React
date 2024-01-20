@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/WeatherApp-React/static/css/main.90da9b8b.css",
+    "main.js": "/WeatherApp-React/static/js/main.6e302d05.js",
+    "static/media/Poppins-Regular.woff": "/WeatherApp-React/static/media/Poppins-Regular.6c52b9ac6734cdb52c11.woff",
+    "index.html": "/WeatherApp-React/index.html",
+    "main.90da9b8b.css.map": "/WeatherApp-React/static/css/main.90da9b8b.css.map",
+    "main.6e302d05.js.map": "/WeatherApp-React/static/js/main.6e302d05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90da9b8b.css",
+    "static/js/main.6e302d05.js"
+  ]
+}
